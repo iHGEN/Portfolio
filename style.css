@@ -67,7 +67,7 @@ section{
   height: 100vh;
   display: flex;
   align-items: center;
-  background : url(/img/VR.jpg);
+  background : url(https://media.githubusercontent.com/media/iHGEN/Portfolio/main/img/VR.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
